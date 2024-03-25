@@ -1,4 +1,4 @@
-v1.13 - 3/25/2024
+v1.14 - 3/25/2024
 
 
 
@@ -8,7 +8,7 @@ v1.13 - 3/25/2024
 - Fixed an issue with Custom Night exclusive characters getting unlocked when doing custom presets.
 
 
-- Fixed an issue that causes the "Hi-Score" trophy to be unobtainable.
+- Fixed an issue that causes the "Hi-Score" and "Say Cheese" trophies to be unobtainable.
 
 
 - The camera buttons in the 6th night will now show the correct camera number when highlighted.
