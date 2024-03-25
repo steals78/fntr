@@ -1,4 +1,4 @@
-v1.1 - 3/25/2024
+v1.11 - 3/25/2024
 
 
 - Fixed an issue with one of the Custom Night exclusive characters appearing during a night when locked in one of the custom night challenges.
@@ -10,10 +10,19 @@ v1.1 - 3/25/2024
 - Fixed an issue that causes the "Hi-Score" trophy to be unobtainable.
 
 
+- The camera buttons in the 6th night will now show the correct camera number when highlighted.
+
+
 - Lowered V. Chica's voiceline and one of the night 5 character's jumpscare volume.
 
 
 - The 6th night now has a tips screen before starting the night.
 
 
-- Increased all of the easter egg chances in the 6th night.
+- Decreased all of the easter egg chances in the 6th night.
+
+
+- The 6 AM screen is now completely mute when completing night 5.
+
+
+- Fredbear & Bonnie can no longer be in the office at the same time.
