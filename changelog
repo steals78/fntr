@@ -1,4 +1,5 @@
-v1.12 - 3/25/2024
+v1.13 - 3/25/2024
+
 
 
 - Fixed an issue with one of the Custom Night exclusive characters appearing during a night when locked in one of the custom night challenges.
@@ -26,3 +27,6 @@ v1.12 - 3/25/2024
 
 
 - Fredbear & Bonnie can no longer be in the office at the same time.
+
+
+- Added a confirmation pop-up when clicking on the new game button if you have already made progress.
