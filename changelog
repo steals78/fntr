@@ -1,32 +1,17 @@
-v1.14 - 3/25/2024
+v1.2 - 3/26/2024
 
 
 
-- Fixed an issue with one of the Custom Night exclusive characters appearing during a night when locked in one of the custom night challenges.
+- The Post-night minigame can now be replayable in the Minigames section of the extras.
 
 
-- Fixed an issue with Custom Night exclusive characters getting unlocked when doing custom presets.
+- Resized the hitbox for the player in the post-night minigame.
 
 
-- Fixed an issue that causes the "Hi-Score" and "Say Cheese" trophies to be unobtainable.
+- Night 5 has been rebalanced a bit.
 
 
-- The camera buttons in the 6th night will now show the correct camera number when highlighted.
+- New game will no longer reset your entire save data.
 
 
-- Lowered V. Chica's voicelines and one of the night 5 character's jumpscare volume.
-
-
-- The 6th night now has a tips screen before starting the night.
-
-
-- Decreased all of the easter egg chances in the 6th night.
-
-
-- The 6 AM screen is now completely mute when completing night 5.
-
-
-- Fredbear & Bonnie can no longer be in the office at the same time.
-
-
-- Added a confirmation pop-up when clicking on the new game button if you have already made progress.
+- You can now hold DEL to reset your entire save data.
